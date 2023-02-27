@@ -1,0 +1,3 @@
+include::{snippets}/hello/http-request.adoc[]
+include::{snippets}/hello/http-response.adoc[]
+include::{snippets}/hello/curl-request.adoc[]
